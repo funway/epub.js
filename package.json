@@ -1,5 +1,5 @@
 {
-  "name": "@funway/epubjs",
+  "name": "hawu-epubjs",
   "version": "0.3.93",
   "description": "Parse and Render Epubs (epub.js with fixes)",
   "main": "lib/index.js",
