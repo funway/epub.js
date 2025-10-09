@@ -1,7 +1,7 @@
 {
   "name": "hawu-epubjs",
-  "version": "0.3.93-hawu.1",
-  "description": "Parse and Render Epubs (epub.js with fixes)",
+  "version": "0.3.94",
+  "description": "Parse and Render Epubs (based on epub.js v0.3.93 with fixes)",
   "main": "lib/index.js",
   "module": "src/index.js",
   "types": "types/index.d.ts",
